@@ -5,8 +5,8 @@ This tool processes participant data for the randomized controlled trial:
 > **"A Randomized Controlled Trial of an Integrated Digital Mental Health Platform: Evaluating Resilience, Habits, Physiological Regulation, and Emotional Awareness"**
 
 The platform integrates evidence-based frameworks from:
-- **[Habit Design Studio](https://habit-designer.aiwaapp.live)**: Designing habits that work *with your brain*, not against it (Nguyen, 2024)
-- **[Well-Be](https://wellbe.aiwaapp.live)**: HRV-derived wellness metrics (Stress, Energy, Resilience, Balance, Coherence, RMSSD, SDNN, Total Power)
+- **[Habit Design Studio](https://cognitioplus.aiwaapp.live/habit-designer)**: Designing habits that work *with your brain*, not against it (Nguyen, 2024)
+- **[Well-Be](https://cognitio-plus.aiwaapp.live/well-be)**: HRV-derived wellness metrics (Stress, Energy, Resilience, Balance, Coherence, RMSSD, SDNN, Total Power)
 
 ---
 
